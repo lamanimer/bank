@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+python-dotenv
+firebase-admin
+openai
+pydantic[email]
+httpx
+python-multipart
